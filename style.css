@@ -146,6 +146,7 @@ body {
 .grid {
   margin-right: -3.5rem;
   position: relative;
+  padding:15px;
 }
 .grid1{
   display:flex;
